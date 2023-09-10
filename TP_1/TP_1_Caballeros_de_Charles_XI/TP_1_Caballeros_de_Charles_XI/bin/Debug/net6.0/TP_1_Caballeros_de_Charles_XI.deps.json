@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP_1_Caballeros_de_Charles_XI/1.0.0": {
+        "dependencies": {
+          "Library_C11K": "1.0.0.0"
+        },
+        "runtime": {
+          "TP_1_Caballeros_de_Charles_XI.dll": {}
+        }
+      },
+      "Library_C11K/1.0.0.0": {
+        "runtime": {
+          "Library_C11K.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP_1_Caballeros_de_Charles_XI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library_C11K/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
