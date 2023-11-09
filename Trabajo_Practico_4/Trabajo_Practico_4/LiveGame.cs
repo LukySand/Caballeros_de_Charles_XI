@@ -177,5 +177,17 @@ namespace Trabajo_Practico_4
         {
             pGame.UpdateGame(MatrixGame);
         }
+
+        public bool EndgameValidation()
+        {
+            foreach (TextBox TB in MatrixGame)
+            {
+                if (string.IsNullOrEmpty(TB.Text) || TB.ForeColor == Color.DarkRed)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 }

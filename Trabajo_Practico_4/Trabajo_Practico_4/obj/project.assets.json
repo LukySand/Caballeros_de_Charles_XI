@@ -1215,19 +1215,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sebap\\.nuget\\packages\\": {}
+    "C:\\Users\\lukys\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sebap\\Desktop\\2do Año\\Clases_Segundo_Cuatri\\Programacion_ll\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
+      "projectUniqueName": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
       "projectName": "Trabajo_Practico_4",
-      "projectPath": "C:\\Users\\sebap\\Desktop\\2do Año\\Clases_Segundo_Cuatri\\Programacion_ll\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
-      "packagesPath": "C:\\Users\\sebap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebap\\Desktop\\2do Año\\Clases_Segundo_Cuatri\\Programacion_ll\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\obj\\",
+      "projectPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
+      "packagesPath": "C:\\Users\\lukys\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sebap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lukys\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1277,7 +1277,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

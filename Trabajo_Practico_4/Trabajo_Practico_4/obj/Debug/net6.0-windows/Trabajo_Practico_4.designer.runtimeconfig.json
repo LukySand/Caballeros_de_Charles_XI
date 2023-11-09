@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\sebap\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\sebap\\.nuget\\packages"
+      "C:\\Users\\lukys\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lukys\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

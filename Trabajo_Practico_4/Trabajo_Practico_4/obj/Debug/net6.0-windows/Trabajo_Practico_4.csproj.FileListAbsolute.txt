@@ -64,3 +64,4 @@ C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\Trabajo_Practico_4\T
 C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\Trabajo_Practico_4\Trabajo_Practico_4\obj\Debug\net6.0-windows\Trabajo_Practico_4.pdb
 C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\Trabajo_Practico_4\Trabajo_Practico_4\obj\Debug\net6.0-windows\Trabajo_Practico_4.genruntimeconfig.cache
 C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\Trabajo_Practico_4\Trabajo_Practico_4\obj\Debug\net6.0-windows\ref\Trabajo_Practico_4.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\Trabajo_Practico_4\Trabajo_Practico_4\obj\Debug\net6.0-windows\Trabajo_Practico_4.Difficulty.resources
