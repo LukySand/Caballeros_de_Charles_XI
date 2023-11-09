@@ -10,8 +10,10 @@ namespace Trabajo_Practico_4
         [STAThread]
         static void Main()
         {
+            Controlers.Conection.OpenConnection();
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+            Controlers.Conection.CloseConnection();
         }
     }
 }
