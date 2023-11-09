@@ -47,9 +47,9 @@ namespace Trabajo_Practico_4
         private void LiveGame_Validating(object sender, EventArgs e)
         {
             TextBox textBox = (TextBox)sender;
-            if (TB_Validation((TextBox)sender))
+            if (TB_Validation(textBox))
             {
-                if ((Game.checkArray(SplitMatrix((TextBox)sender)) || Game.checkArray(SplitRow((TextBox)sender)) || Game.checkArray(SplitColumn((TextBox)sender))) == true)
+                if ((Game.checkArray(SplitMatrix(textBox)) || Game.checkArray(SplitRow(textBox)) || Game.checkArray(SplitColumn(textBox))) == true)
                 {
                     textBox.ForeColor = Color.DarkRed;
                 }
