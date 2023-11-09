@@ -13,7 +13,11 @@
     ],
     "additionalProbingPaths": [
       "C:\\Users\\lukys\\.dotnet\\store\\|arch|\\|tfm|",
+<<<<<<< HEAD:TP_4/Trabajo_Practico_4/obj/Debug/net6.0-windows/Trabajo_Practico_4.designer.runtimeconfig.json
       "C:\\Users\\evely\\.nuget\\packages"
+=======
+      "C:\\Users\\lukys\\.nuget\\packages"
+>>>>>>> Lucas_Dev:Trabajo_Practico_4_(6)/Trabajo_Practico_4_(5)/Trabajo_Practico_4/Trabajo_Practico_4/obj/Debug/net6.0-windows/Trabajo_Practico_4.designer.runtimeconfig.json
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

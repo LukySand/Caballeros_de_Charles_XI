@@ -1,0 +1,1 @@
+Parking Id: 1, Ticket Id: 1 Price: 20 Hora de entrada: 3/22/2024 9:00:00 PM Hpra de Salida: , Marca de Auto: Lexus, Modelo de auto: LFA, Patente: AB 500 JR

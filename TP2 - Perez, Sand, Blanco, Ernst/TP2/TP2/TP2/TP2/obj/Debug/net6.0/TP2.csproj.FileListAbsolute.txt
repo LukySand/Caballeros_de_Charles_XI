@@ -1,0 +1,146 @@
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\sebap\Desktop\Segundo Año\Clases_Segundo_Cuatri\Programacion_ll\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 (3)\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\sebap\Desktop\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\Proyectos\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\sebap\Desktop\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\sebap\Desktop\2do Año\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2 (editado por lucas)2\TP2 (editado por lucas)\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\gabib\Documents\2° dos\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\gabib\Documents\2° Gabi\Prog 2\TP2\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\refint\TP2.dll
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
+C:\Users\lukys\OneDrive\Escritorio\Caballeros_de_Charles_XI\TP2 - Perez, Sand, Blanco, Ernst (2)\TP2 - Perez, Sand, Blanco, Ernst\TP2\TP2\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll

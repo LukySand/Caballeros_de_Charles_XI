@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj": {}
+    "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP2 - Perez, Sand, Blanco, Ernst\\TP2 - Perez, Sand, Blanco, Ernst\\TP2\\TP2\\TP2\\TP2\\TP2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj": {
+    "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP2 - Perez, Sand, Blanco, Ernst\\TP2 - Perez, Sand, Blanco, Ernst\\TP2\\TP2\\TP2\\TP2\\TP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
-        "projectName": "Trabajo_Practico_4",
-        "projectPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
+        "projectUniqueName": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP2 - Perez, Sand, Blanco, Ernst\\TP2 - Perez, Sand, Blanco, Ernst\\TP2\\TP2\\TP2\\TP2\\TP2.csproj",
+        "projectName": "TP2",
+        "projectPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP2 - Perez, Sand, Blanco, Ernst\\TP2 - Perez, Sand, Blanco, Ernst\\TP2\\TP2\\TP2\\TP2\\TP2.csproj",
         "packagesPath": "C:\\Users\\lukys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP_4\\Trabajo_Practico_4\\obj\\",
+        "outputPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\TP2 - Perez, Sand, Blanco, Ernst\\TP2 - Perez, Sand, Blanco, Ernst\\TP2\\TP2\\TP2\\TP2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,14 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "System.Data.SQLite": {
-              "target": "Package",
-              "version": "[1.0.118, )"
-            }
-          },
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -59,9 +53,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
