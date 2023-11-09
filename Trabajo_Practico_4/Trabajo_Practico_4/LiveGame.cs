@@ -15,7 +15,7 @@ namespace Trabajo_Practico_4
 {
     public partial class LiveGame : Form
     {
-        public TextBox[,] MatrixGame;
+        public TextBox[,] MatrixGame;   //this is the matrix of textBoxes, basicaly teh sudoku
 
         public int IdEG { get; set; }
 
