@@ -12,7 +12,7 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\evely\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lukys\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\evely\\.nuget\\packages"
     ],
     "configProperties": {
