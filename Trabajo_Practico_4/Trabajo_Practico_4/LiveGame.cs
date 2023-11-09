@@ -178,7 +178,7 @@ namespace Trabajo_Practico_4
             pGame.UpdateGame(MatrixGame);
         }
 
-        public bool EndgameValidation()
+        public bool EndgameValidation()     //this is the function that validates if the game is in a situation to end and returns a bool
         {
             foreach (TextBox TB in MatrixGame)
             {
