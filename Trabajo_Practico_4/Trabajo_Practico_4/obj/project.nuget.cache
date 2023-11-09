@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1BI6cUwgP0+XUeYNVnnry1mOa0t06sNLvDV2v6Ox4zuuyPFf3jM7w9GafXINX+Jr3sRbF/Em22HpwgoR7Ti+0A==",
+  "dgSpecHash": "UNTR6AlZsYKdg550n6EH3Xmrl54Tkjq0wZQZdN5mQvkRfKfI6fKBqlJr14h8T+g9v72U5kcyjv/v5GmA8DxNFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4_(6)\\Trabajo_Practico_4_(5)\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
+  "projectFilePath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lukys\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\lukys\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
