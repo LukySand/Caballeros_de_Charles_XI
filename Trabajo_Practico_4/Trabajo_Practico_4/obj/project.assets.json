@@ -1215,19 +1215,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lukys\\.nuget\\packages\\": {}
+    "C:\\Users\\evely\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4_(6)\\Trabajo_Practico_4_(5)\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
+      "projectUniqueName": "C:\\Users\\evely\\OneDrive\\Desktop\\uni\\2do\\2 año - segundo cuatri\\Programacion II\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
       "projectName": "Trabajo_Practico_4",
-      "projectPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4_(6)\\Trabajo_Practico_4_(5)\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
-      "packagesPath": "C:\\Users\\lukys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukys\\OneDrive\\Escritorio\\Caballeros_de_Charles_XI\\Trabajo_Practico_4_(6)\\Trabajo_Practico_4_(5)\\Trabajo_Practico_4\\Trabajo_Practico_4\\obj\\",
+      "projectPath": "C:\\Users\\evely\\OneDrive\\Desktop\\uni\\2do\\2 año - segundo cuatri\\Programacion II\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\Trabajo_Practico_4.csproj",
+      "packagesPath": "C:\\Users\\evely\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\evely\\OneDrive\\Desktop\\uni\\2do\\2 año - segundo cuatri\\Programacion II\\Caballeros_de_Charles_XI\\Trabajo_Practico_4\\Trabajo_Practico_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lukys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\evely\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
