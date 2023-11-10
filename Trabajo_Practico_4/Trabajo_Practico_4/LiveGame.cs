@@ -15,17 +15,29 @@ namespace Trabajo_Practico_4
 {
     public partial class LiveGame : Form
     {
-        public TextBox[,] MatrixGame;
-        public TimeSpan tiempoTranscurrido = TimeSpan.Zero;
+        public TextBox[,] MatrixGame;   //this is the matrix of textBoxes, basicaly tehe sudoku
+
+        public int IdEG { get; set; }
 
         public LiveGame()
         {
             InitializeComponent();
-            UseTimer();
             Conection.OpenConnection();
             LoadTBMatrix();
             //pGame.GetGame(MatrixGame);
-            //Levels.Easy_1(MatrixGame);
+            Levels.Easy_1(MatrixGame);
+            PinStarters();
+
+        }
+        public LiveGame(int Ideg)
+        {
+            InitializeComponent();
+            Conection.OpenConnection();
+            LoadTBMatrix();
+            //pGame.GetGame(MatrixGame);
+            Levels.Easy_1(MatrixGame);
+            PinStarters();
+            IdEG = Ideg;
         }
 
         private void LiveGame_Load(object sender, EventArgs e)
@@ -35,15 +47,15 @@ namespace Trabajo_Practico_4
         private void LiveGame_Validating(object sender, EventArgs e)
         {
             TextBox textBox = (TextBox)sender;
-            if (TB_Validation((TextBox)sender))
+            if (TB_Validation(textBox))
             {
-                if ((Game.checkArray(SplitMatrix((TextBox)sender)) || Game.checkArray(SplitRow((TextBox)sender)) || Game.checkArray(SplitColumn((TextBox)sender))) == true)
+                if ((Game.checkArray(SplitMatrix(textBox)) || Game.checkArray(SplitRow(textBox)) || Game.checkArray(SplitColumn(textBox))) == true)
                 {
                     textBox.ForeColor = Color.DarkRed;
                 }
                 else
                 {
-                    textBox.ForeColor = Color.Black;
+                    textBox.ForeColor = Color.DarkBlue;
                 }
             }
         }
@@ -81,7 +93,7 @@ namespace Trabajo_Practico_4
             {
                 for (int y = column - 3; y < column; y++)
                 {
-                    returnableArray[index] = parseTB(MatrixGame[x, y].Text);
+                    returnableArray[index] = pGame.parseTB(MatrixGame[x, y].Text);
                     index++;
                 }
             }
@@ -89,21 +101,6 @@ namespace Trabajo_Practico_4
             return returnableArray; //que epico metodo que hice -lucas 4/11, 22:56:48 
         }
 
-        public int parseTB(string TB)
-        {
-            try
-            {
-                return int.Parse(TB);
-            }
-            catch (FormatException)
-            {
-                return 0;
-            }
-            catch (ArgumentNullException)
-            {
-                return 0;
-            }
-        }
 
         public bool TB_Validation(TextBox tb)
         {
@@ -139,7 +136,7 @@ namespace Trabajo_Practico_4
 
             for (int column = 0; column < 9; column++)
             {
-                returnableArray[column] = parseTB(MatrixGame[row, column].Text);
+                returnableArray[column] = pGame.parseTB(MatrixGame[row, column].Text);
             }
 
             return returnableArray; //que epico metodo que hice -lucas 4/11, 22:56:48 
@@ -154,29 +151,43 @@ namespace Trabajo_Practico_4
 
             for (int row = 0; row < 9; row++)
             {
-                returnableArray[row] = parseTB(MatrixGame[row, column].Text);
+                returnableArray[row] = pGame.parseTB(MatrixGame[row, column].Text);
             }
 
             return returnableArray; //que epico metodo que hice -lucas 4/11, 22:56:48 
         }
 
-        public void UseTimer()
+        public void PinStarters()
         {
-            Timer1 = new System.Windows.Forms.Timer();
-            Timer1.Interval = 1000;
-            Timer1.Tick += new EventHandler(timer1_Tick);
-            Timer1.Start();
+            foreach (TextBox TB in MatrixGame)
+            {
+                if (!string.IsNullOrEmpty(TB.Text)) //no podemos usar != null porque nos da cualquier cosa, esto compara si NO es nulo.
+                {
+                    TB.ForeColor = Color.Black;
+                    TB.ReadOnly = true;
+                }
+                else
+                {
+                    TB.ReadOnly = false;
+                }
+            }
         }
 
-        public void timer1_Tick(object sender, EventArgs e)
+        private void save_Click(object sender, EventArgs e)
         {
-            tiempoTranscurrido = tiempoTranscurrido.Add(TimeSpan.FromSeconds(1));
-            txtTimer.Text = tiempoTranscurrido.ToString(@"hh\:mm\:ss");
+            pGame.UpdateGame(MatrixGame);
         }
 
-        private void LiveGame_FormClosed(object sender, FormClosedEventArgs e)
+        public bool EndgameValidation()     //this is the function that validates if the game is in a situation to end and returns a bool
         {
-            Timer1.Stop();
+            foreach (TextBox TB in MatrixGame)
+            {
+                if (string.IsNullOrEmpty(TB.Text) || TB.ForeColor == Color.DarkRed)
+                {
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }
