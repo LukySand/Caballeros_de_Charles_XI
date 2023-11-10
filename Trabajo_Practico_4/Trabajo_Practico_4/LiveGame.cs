@@ -15,7 +15,7 @@ namespace Trabajo_Practico_4
 {
     public partial class LiveGame : Form
     {
-        public TextBox[,] MatrixGame;
+        public TextBox[,] MatrixGame;   //this is the matrix of textBoxes, basicaly tehe sudoku
 
         public int IdEG { get; set; }
 
@@ -47,9 +47,9 @@ namespace Trabajo_Practico_4
         private void LiveGame_Validating(object sender, EventArgs e)
         {
             TextBox textBox = (TextBox)sender;
-            if (TB_Validation((TextBox)sender))
+            if (TB_Validation(textBox))
             {
-                if ((Game.checkArray(SplitMatrix((TextBox)sender)) || Game.checkArray(SplitRow((TextBox)sender)) || Game.checkArray(SplitColumn((TextBox)sender))) == true)
+                if ((Game.checkArray(SplitMatrix(textBox)) || Game.checkArray(SplitRow(textBox)) || Game.checkArray(SplitColumn(textBox))) == true)
                 {
                     textBox.ForeColor = Color.DarkRed;
                 }
@@ -176,6 +176,18 @@ namespace Trabajo_Practico_4
         private void save_Click(object sender, EventArgs e)
         {
             pGame.UpdateGame(MatrixGame);
+        }
+
+        public bool EndgameValidation()     //this is the function that validates if the game is in a situation to end and returns a bool
+        {
+            foreach (TextBox TB in MatrixGame)
+            {
+                if (string.IsNullOrEmpty(TB.Text) || TB.ForeColor == Color.DarkRed)
+                {
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }
